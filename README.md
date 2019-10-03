@@ -44,3 +44,8 @@ server {
 ## Create another site
 
 Repeat the above.
+
+## Subdomain
+
+Use the subdomain in `server_name` and add a subdomain name or wildcard (`*`)
+A/AAAA DNS record to the domain's DNS records.
