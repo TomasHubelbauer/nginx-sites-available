@@ -1,5 +1,7 @@
 # NGinx `sites-available`
 
+[**WEB**](https://tomashubelbauer.github.io/nginx-sites-available)
+
 ## Install NGinx
 
 `apt install nginx`
